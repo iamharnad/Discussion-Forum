@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/icon_menu_contact"
+            android:title="Contacts" />
+        <item
+            android:id="@+id/nav_more"
+            android:icon="@drawable/icon_menu_moreaboutcdac"
+            android:title="More About C-DAC" />
+
+    </group>
+
+   </menu>

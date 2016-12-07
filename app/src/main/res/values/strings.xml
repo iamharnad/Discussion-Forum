@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CDAC-Discussion Forum</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Exit">Exit</string>
+    <string name="Home">Home</string>
+    <string name="About_Cdac">Centre for Development of Advanced Computing, Hyderabad is a knowledge centre[1] with the components of knowledge creation, knowledge dissemination, knowledge application to grow in the areas of research and development, training and business respectively. The RAndD areas of the centre are e-security, embedded systems, ubiquitous computing, e-learning, ESDM, and ICT for development.
+
+The centre has developed over a period of time a number of products and solutions, such as EnSafe, RealSafe, e-Sikshak, e-Savya, CET Automation Tool, Quality Assurance Analytics Tool for e-learning etc. The centre has established a number of labs in cutting edge technologies like e-Suraksha Concept Lab, Malware Resource Centre, Ubiquitous Research Centre, Walk-in e-learning Technology Laboratory, etc. The centre has also actively involved in ICT for development through its Multilingual "vikaspedia.in" Web Portal. The centre has also taken initiative for creating Mass Awareness in Information Security.
+
+In line with these R And D strengths, the centre also offers Post Graduate level diploma courses in the areas of Network Security, Embedded Systems, VLSI, System Software Development, Advanced Business Computing etc.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Rights_reserved">© 2016 C-DAC. All rights reserved</string>
+</resources>
